@@ -1,12 +1,20 @@
 ---
+
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses I have taught as a Teaching Assistant.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Courses
 
-Organize your courses by years, topics, or universities, however you like!
+### University of Illinois at Urbana-Champaign
+- **CS173: Discrete Structures** (Spring 2024)
+- **CS440: Artificial Intelligence** (Fall 2023)
+
+### Zhejiang University
+- **CS101: Introduction to Computing** (Fall 2022)
+
+---
