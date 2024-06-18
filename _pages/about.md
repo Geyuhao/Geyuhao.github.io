@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: SDE @ <a href='https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs'>Amazon AWS</a>, MSCS @ <a href='https://cs.illinois.edu'>UIUC</a>. Address. Contacts. Moto. Etc.
+subtitle: SDE @ <a href='https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls'>Amazon AWS</a> | MSCS @ <a href='https://cs.illinois.edu'>UIUC</a> | ex-SDE @ <a href='https://www.tiktok.com/about?lang=en'>TikTok</a>
 
 profile:
   align: right
-  image: geyuhao
+  image: geyuhao.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>217-926-3291</p>
