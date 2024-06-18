@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join Amazon AWS, specifically the [Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), this summer as a software engineer intern. I will work with the Compiler team on the AWS [Neuron](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/), which aims to optimize deep learning training and inference on AWS [Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls) and Inferentia chips.
+:tada: :desktop_computer: I will join Amazon AWS, [Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), this summer as a software engineer intern. I will work with the Compiler team on the AWS [Neuron](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/), which aims to optimize deep learning training and inference on AWS [Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls) and Inferentia chips.

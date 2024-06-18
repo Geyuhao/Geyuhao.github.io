@@ -6,10 +6,9 @@ subtitle: SDE @ <a href='https://aws.amazon.com/machine-learning/trainium/?nc1=h
 
 profile:
   align: right
-  image: geyuhao.JPG
+  image: geyuhao.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>217-926-3291</p>
     <p>1010 W University Ave</p>
     <p>Urbana, IL 61801</p>
 
