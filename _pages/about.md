@@ -6,7 +6,7 @@ subtitle: SDE @ <a href='https://www.amazon.jobs/content/en/teams/amazon-web-ser
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: geyuhao
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>217-926-3291</p>
