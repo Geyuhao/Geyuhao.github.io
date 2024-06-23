@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Geyuhao
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Geyuhao/DoodleJump-on-FPGA
+  - ADAPT-uiuc/tglite

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Remote 3D Reconstruction
+description: Remote Car Control System with Real-time 3D Reconstruction
 img: assets/img/3.jpg
 importance: 2
 category: work

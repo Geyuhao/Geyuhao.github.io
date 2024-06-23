@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: with background image
+description: Optimized GPU code generation framework for Sparse Regular Attention
 img: assets/img/12.jpg
 importance: 1
 category: work
