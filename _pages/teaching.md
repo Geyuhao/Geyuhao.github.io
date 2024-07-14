@@ -2,10 +2,10 @@
 
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Courses I have taught as a Teaching Assistant.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ## University of Illinois at Urbana-Champaign
