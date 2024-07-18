@@ -1,5 +1,4 @@
 ---
-
 layout: page
 permalink: /teaching/
 title: teaching
@@ -9,10 +8,12 @@ nav_order: 3
 ---
 
 ## University of Illinois at Urbana-Champaign
+
 - **CS173: Discrete Structures** (Spring 2024)
 - **CS440: Artificial Intelligence** (Fall 2023)
 
 ## Zhejiang University
+
 - **CS101: Introduction to Computing** (Fall 2022)
 
 ---

@@ -30,11 +30,13 @@
       "startDate": "2022-05-20",
       "endDate": "2022-08-20",
       "summary": "",
-      "highlights": ["Contributed to the development of Amazing Engine, TikTok's next-generation 3D game engine", 
-                    "Integrated motion matching technology for responsive AR/VR avatar control",
-                    " Integrated diverse motion data sources, creating a unified motion database",
-                    "Developed SDKs for skeleton retargeting across different charactor models",
-                    "Integrated the cross-functional team's text-to-animation algorithm into the engine"]
+      "highlights": [
+        "Contributed to the development of Amazing Engine, TikTok's next-generation 3D game engine",
+        "Integrated motion matching technology for responsive AR/VR avatar control",
+        " Integrated diverse motion data sources, creating a unified motion database",
+        "Developed SDKs for skeleton retargeting across different charactor models",
+        "Integrated the cross-functional team's text-to-animation algorithm into the engine"
+      ]
     },
     {
       "name": "Software Engineer",
@@ -43,9 +45,11 @@
       "startDate": "2024-05-20",
       "endDate": "Present",
       "summary": "",
-      "highlights": ["Worked on Neuron Compiler, optimizing DL workloads on AWS Trainium and Inferentia chips. ", 
-                    "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization with a defined sweep space. Collected data for DMA pattern analysis and optimized the DMA latency model.",
-                    " Built the first-generation autotuning framework from scratch to support continuous compilation optimization"]
+      "highlights": [
+        "Worked on Neuron Compiler, optimizing DL workloads on AWS Trainium and Inferentia chips. ",
+        "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization with a defined sweep space. Collected data for DMA pattern analysis and optimized the DMA latency model.",
+        " Built the first-generation autotuning framework from scratch to support continuous compilation optimization"
+      ]
     },
     {
       "name": "Machine Learning Engineer",
@@ -54,13 +58,15 @@
       "startDate": "2023-02-20",
       "endDate": "2023-06-20",
       "summary": "",
-      "highlights": ["Contributed as a Machine Learning Engineer intern on the Backend Team at NFTGo", 
-                    "Developed GoPricing, an ML-powered NFT pricing service",
-                    "Developed GoPredicter regression model, achieving MAPE of 3%-8% for 3000+ collections",
-                    "Utilized FastAPI, an ASGI-based framework for scalability and responsiveness",
-                    "Retrieved data from MongoDB and implemented leveled caching with Redis",
-                    "Streamlined data processing, model training/updating, and monitoring with Apache Airflow",
-                    "Deployed and managed the system using Docker, Kubernetes, and Grafana"]
+      "highlights": [
+        "Contributed as a Machine Learning Engineer intern on the Backend Team at NFTGo",
+        "Developed GoPricing, an ML-powered NFT pricing service",
+        "Developed GoPredicter regression model, achieving MAPE of 3%-8% for 3000+ collections",
+        "Utilized FastAPI, an ASGI-based framework for scalability and responsiveness",
+        "Retrieved data from MongoDB and implemented leveled caching with Redis",
+        "Streamlined data processing, model training/updating, and monitoring with Apache Airflow",
+        "Deployed and managed the system using Docker, Kubernetes, and Grafana"
+      ]
     },
     {
       "name": "Machine Learning Engineer",
@@ -69,9 +75,11 @@
       "startDate": "2023-01-20",
       "endDate": "2023-02-20",
       "summary": "",
-      "highlights": ["Worked at Surimage to accelerate the route planning algorithm", 
-                    "Coordinate heuristic algorithm and greedy algorithms to solve the TSP problems",
-                    "Created a two-level reduction structure to accelerate the converging rate"]
+      "highlights": [
+        "Worked at Surimage to accelerate the route planning algorithm",
+        "Coordinate heuristic algorithm and greedy algorithms to solve the TSP problems",
+        "Created a two-level reduction structure to accelerate the converging rate"
+      ]
     }
   ],
   "volunteer": [
@@ -150,7 +158,6 @@
       "url": "",
       "summary": ""
     }
-    
   ],
   "certificates": [
     {
@@ -169,21 +176,13 @@
       "url": "https://link.springer.com/chapter/10.1007/978-3-031-20503-3_15#citeas",
       "summary": "Computer-aided systems are widely used in digital dentistry to help human experts for accurate and efficient diagnosis and treatment planning. In this paper, we study the problem of tooth defect segmentation in 3-Dimensional (3D) mesh scans, which is a prerequisite task in many dental applications. Existing models usually perform poorly in this task due to the highly imbalanced characteristic of tooth defects. To tackle this issue, we propose a novel triple-stream graph convolutional network named TripleNet to learn multi-scale geometric features from mesh scans for end-to-end tooth defect segmentation. With predefined geometrical features as inputs and a focal loss for training guidance, we achieve state-of-the-art performance on 3D tooth defect segmentation. Our work exhibits the great potential of artificial intelligence for future digital dentistry. concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
-
   ],
   "skills": [
     {
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "JavaScript",
-        "SystemVerilog",
-        "Assembly",
-        "SQL"
-      ]
+      "keywords": ["Python", "C/C++", "JavaScript", "SystemVerilog", "Assembly", "SQL"]
     },
     {
       "name": "Frameworks & Tools",
@@ -226,16 +225,12 @@
     {
       "name": "drummer",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        ""
-      ]
-    },    {
+      "keywords": [""]
+    },
+    {
       "name": "love his girlfriend",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "love",
-        "happy life"
-      ]
+      "keywords": ["love", "happy life"]
     }
   ],
   "references": [

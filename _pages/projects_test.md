@@ -2,7 +2,7 @@
 layout: page
 title: projects_test
 permalink: /projects_test/
-description: 
+description:
 nav: false
 nav_order: 2
 display_categories: [work, fun]

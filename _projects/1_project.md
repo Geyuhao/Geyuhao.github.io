@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optimized GPU code generation framework for Sparse Regular Attention
-description: 
+description:
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -9,7 +9,6 @@ related_publications: true
 ---
 
 Developed SPLAT, an optimized framework for efficient Sparse-MHSA, targeting moderate sparsity levels. Introduced Affine Compressed Sparse-Row (ACSR) format for regular sparsity patterns in MHSA. Engineered advanced GPU code-generation algorithms for ACSR, enhancing sparse-MHSA kernel performance. Achieved 2.05x and 4.05x speedups over Triton and TVM kernels with SPLAT implementation.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
