@@ -5,4 +5,4 @@ permalink: /work/
 nav: true
 ---
 
-{% include work.liquid %}
+{% include work.liquid detailed=true %}

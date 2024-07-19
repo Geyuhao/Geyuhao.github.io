@@ -1,30 +1,29 @@
 - company: "Amazon, Annapurna Labs"
   position: "Software Engineer Intern"
   period: "2024.5 - 2024.8"
-  details: |
-     Neuron Compiler | Optimize deep learning on AWS AI accelerators (Trainium and Inferentia)
-    • Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization with a defined sweep space
-    • Collected data for DMA access pattern analysis and introduced a learning-based DMA latency model
-    • Built the first-generation Autotuning framework from scratch to support compiler optimization
-    • Used autotuning to optimize the Matrix Multiply Fusion Pass, gaining a 5.6% improvement for popular LLMs like Llama
-    • Developed the kernel language for AI accelerators, and supported the Kernel Optimization with autotuning, resulting in a 4.9% HFU improvement for kernels like Matrix Multiply
+  details:
+    - "Work with the Neuron Compiler team, which focused on optimizing deep learning on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
+    - "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization"
+    - "Collected data for DMA access pattern analysis and introduced a learning-based DMA latency model"
+    - "Build the first-generation Autotuning framework from scratch to support compiler optimization"
+    - "Use autotuning to optimize the Matrix Multiply Fusion Pass, gaining a 5.6% improvement for popular LLMs like Llama"
+    - "Develop the kernel language for AI accelerators, and support the Kernel Optimization with autotuning, resulting in a 4.9% HFU improvement for kernels like Matrix Multiply"
 
 - company: "NFTGo"
   position: "Machine Learning Engineer Intern"
   period: "2023.2 - 2023.6"
-  details: |
-     GoPricing | An NFT pricing service powered by machine learning
-    • Developed a Regression Model for NFT pricing using historical transaction data and NFT features
-    • Used MongoDB and Redis to realize efficient data retrieval, and the FastAPI web framework to package the API services
-    • Streamlined periodic data processing, model training/updating, and monitoring with Apache Airflow
-    • Deployed and managed the system using Docker and Kubernetes and monitored through Grafana
+  details:
+    - "Built an NFT pricing service powered by machine learning"
+    - "Developed a Regression Model for NFT pricing using historical transaction data and NFT features"
+    - "Used MongoDB and Redis to realize efficient data retrieval, and the FastAPI web framework to package the API services"
+    - "Streamlined periodic data processing, model training/updating, and monitoring with Apache Airflow"
+    - "Deployed and managed the system using Docker and Kubernetes and monitored through Grafana"
 
 - company: "TikTok"
   position: "Software Engineer Intern"
   period: "2022.5 - 2022.8"
-  details: |
-     Amazing Engine | TikTok’s Next-Generation 3D Game Engine for AR/VR Effects
-    • Collaborated in developing TikTok’s 3D Game Engine, which empowers users to create/use interactive AR/VR stickers
-    • Implemented a query-based animation system Motion Matching in C++ for realistic and responsive avatar control
-    • Developed an SDK for Skeleton Retargeting in C++ and Lua, supporting animation adaptation across character models
-    • Integrated the cross-functional team's Text-to-Animation algorithm into our game engine using the developed SDK
+  details:
+    - "Collaborated in developing TikTok’s 3D Game Engine, which empowers users to create/use interactive AR/VR stickers"
+    - "Implement a query-based animation system Motion Matching in C++ for realistic and responsive avatar control"
+    - "Developed an SDK for Skeleton Retargeting in C++ and Lua, supporting animation adaptation across character models"
+    - "Integrated the cross-functional team's Text-to-Animation algorithm into our game engine using the developed SDK"

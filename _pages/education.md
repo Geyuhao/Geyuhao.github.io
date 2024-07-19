@@ -5,4 +5,4 @@ permalink: /education/
 nav: true
 ---
 
-{% include education.liquid %}
+{% include education.liquid detailed=true %}

@@ -1,15 +1,25 @@
-- period: 2023.9 - 2025.5
+- institution: "University of Illinois at Urbana-Champaign (UIUC)"
   degree: "M.S. in Computer Science"
-  institution: "University of Illinois at Urbana-Champaign (UIUC)"
+  period: "2023.9 - 2025.5"
+  details:
+    - "Working with [Prof. Charith Mendis](https://charithmendis.com)."
+    - "My research interests include ML for Compilers, Compilers for ML, ML Systems, Accelerators."
 
-- period: 2022.5 - 2022.9
+- institution: "University of California, Los Angeles (UCLA)"
   degree: "Visiting Student Researcher"
-  institution: "University of California, Los Angeles (UCLA)"
+  period: "2022.5 - 2022.9"
+  details:
+    - "Worked with [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong), on FPGA accelerator design automation."
 
-- period: 2019.9 - 2023.5
+- institution: "University of Illinois at Urbana-Champaign (UIUC)"
   degree: "B.S. in Computer Engineering"
-  institution: "University of Illinois at Urbana-Champaign (UIUC)"
+  period: "2019.9 - 2023.5"
+  details:
+    - "Graduated with [Highest Honors](https://ece.illinois.edu/academics/ugrad/honors-programs) and [Bronze Tablet](https://digital.library.illinois.edu/items/0602cf00-96ed-013c-4aba-02d0d7bfd6e4-b#?c=0&m=0&s=0&cv=0&r=0&xywh=-1003%2C162%2C6502%2C2777) recognition (top 3%)."
 
-- period: 2019.9 - 2023.5
+- institution: "Zhejiang University (ZJU)"
   degree: "B.S. in Computer Engineering"
-  institution: "Zhejiang University (ZJU)"
+  period: "2019.9 - 2023.5"
+  details:
+    - "Selected Rewards: Zhejiang Provincial Government Scholarship, First-Class Scholarship (top 3%)"
+    - "Has been the chair of The Center of Student Clubs for one year"
