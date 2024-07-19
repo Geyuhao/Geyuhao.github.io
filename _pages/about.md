@@ -9,6 +9,9 @@ profile:
   image: geyuhao.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <div style="text-align: center;">
+      <a href="../assets/pdf/resume.pdf">resume.pdf</a>
+    </div>
 
 news: true # includes a list of news items
 education: true # includes a list of education items
