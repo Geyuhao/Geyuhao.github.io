@@ -2,7 +2,7 @@
   position: "Software Engineer Intern"
   period: "2024.5 - 2024.8"
   details:
-    - "Work with the Neuron Compiler team, which focused on optimizing deep learning on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
+    - "Work with the [Neuron Compiler](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/) team, which focused on optimizing deep learning on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
     - "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization"
     - "Collected data for DMA access pattern analysis and introduced a learning-based DMA latency model"
     - "Build the first-generation Autotuning framework from scratch to support compiler optimization"
@@ -13,7 +13,7 @@
   position: "Machine Learning Engineer Intern"
   period: "2023.2 - 2023.6"
   details:
-    - "Built an NFT pricing service powered by machine learning"
+    - "Built an [NFT pricing](https://docs.nftgo.io/reference/gopricing) service powered by machine learning"
     - "Developed a Regression Model for NFT pricing using historical transaction data and NFT features"
     - "Used MongoDB and Redis to realize efficient data retrieval, and the FastAPI web framework to package the API services"
     - "Streamlined periodic data processing, model training/updating, and monitoring with Apache Airflow"
