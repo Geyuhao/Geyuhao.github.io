@@ -37,17 +37,28 @@ layout: default
         {% endif %}
       </div>
     {% endif %}
-    <script
-      type="text/javascript"
-      src="//rf.revolvermaps.com/0/0/7.js?i=569ba6lplw3&amp;m=0&amp;c=fff600&amp;cr1=ff0000&amp;sx=0"
-      async="async"
-    ></script>
     <div class="clearfix">{{ content }}</div>
+
+    <!-- Education -->
+    {% if page.education and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/education/' | relative_url }}" style="color: inherit">🎓 education</a>
+      </h2>
+      {% include education.liquid limit=true %}
+    {% endif %}
+
+    <!-- Work -->
+    {% if page.work and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/work/' | relative_url }}" style="color: inherit">💼 work</a>
+      </h2>
+      {% include work.liquid limit=true %}
+    {% endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">🎉 news</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
@@ -55,7 +66,7 @@ layout: default
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">✍️ latest posts</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
