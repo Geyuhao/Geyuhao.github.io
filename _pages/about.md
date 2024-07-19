@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center;">
-      <a href="../assets/pdf/resume.pdf">resume.pdf</a>
+      <a href="../assets/pdf/resume.pdf">Yuhao's Resume</a>
     </div>
 
 news: true # includes a list of news items

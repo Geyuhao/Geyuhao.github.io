@@ -1,0 +1,26 @@
+<div class="teaching-experience">
+  {% if site.data.teaching != blank %}
+    {% assign teaching_size = site.data.teaching | size %}
+    <div
+      class="table-responsive"
+      {% if include.limit and site.data.teaching.scrollable and teaching_size > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      <table class="table table-sm table-borderless">
+        {% assign teaching = site.data.teaching %}
+        {% for item in teaching %}
+          <tr>
+            <td style="width: 30%">
+              <strong>{{ item.course }}</strong>
+            </td>
+            <td style="width: 50%">{{ item.institution }}</td>
+            <td style="width: 20%">{{ item.period }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No teaching experience so far...</p>
+  {% endif %}
+</div>
