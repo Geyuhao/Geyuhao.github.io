@@ -9,11 +9,6 @@ profile:
   image: geyuhao.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <script
-      type="text/javascript"
-      src="//rf.revolvermaps.com/0/0/7.js?i=569ba6lplw3&amp;m=0&amp;c=fff600&amp;cr1=ff0000&amp;sx=0"
-      async="async"
-    ></script>
 
 news: true # includes a list of news items
 education: true # includes a list of education items

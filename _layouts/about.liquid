@@ -63,20 +63,33 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">✍️ latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
-
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">📖 projects</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Latest posts -->
+    {% if site.latest_posts.enabled %}
+      <div style="display: flex;">
+        <div style="flex: 0 0 60%; padding: 10px; margin-right: 20px;">
+          {% if site.latest_posts.enabled %}
+            <h2>
+              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">✍️ latest posts</a>
+            </h2>
+            {% include latest_posts.liquid %}
+          {% endif %}
+        </div>
+        <div style="flex: 0 0 40%; padding: 10px;">
+          <script
+            type="text/javascript"
+            src="//rf.revolvermaps.com/0/0/7.js?i=569ba6lplw3&amp;m=0&amp;c=fff600&amp;cr1=ff0000&amp;sx=0"
+            async="async"
+          ></script>
+        </div>
+      </div>
     {% endif %}
 
     <!-- Social -->
