@@ -3,11 +3,12 @@
   period: "2024.5 - 2024.8"
   details:
     - "Work with the [Neuron Compiler](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/) team, which focused on optimizing deep learning on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
-    - "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization"
+    - "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization with a defined sweep space"
     - "Collected data for DMA access pattern analysis and introduced a learning-based DMA latency model"
-    - "Build the first-generation Autotuning framework from scratch to support compiler optimization"
-    - "Use autotuning to optimize the Matrix Multiply Fusion Pass, gaining a 5.6% improvement for popular LLMs like Llama"
-    - "Develop the kernel language for AI accelerators, and support the Kernel Optimization with autotuning, resulting in a 4.9% HFU improvement for kernels like Matrix Multiply"
+    - "Created first-generation Autotuning framework from scratch to support compiler optimization and kernel optimization"
+    - "Used autotuning to optimize the Matrix Multiply Fusion Pass, gaining a 5.6% improvement for popular LLMs like Llama"
+    - "Developed kernel language for AI accelerators and support the Kernel Optimization with autotuning, achieving a 4.9% HFU improvement for kernels like Matrix Multiply"
+    - "Built support for multi-process compilation and distributed benchmarking, reducing tuning time by 88.4%"
 
 - company: "NFTGo"
   position: "Machine Learning Engineer Intern"
@@ -23,7 +24,7 @@
   position: "Software Engineer Intern"
   period: "2022.5 - 2022.8"
   details:
-    - "Collaborated in developing TikTok’s 3D Game Engine, which empowers users to create/use interactive AR/VR stickers"
-    - "Implement a query-based animation system Motion Matching in C++ for realistic and responsive avatar control"
+    - "Collaborated in developing TikTok 3D Game Engine, which empowers users to create/use interactive AR/VR stickers"
+    - "Implemented a query-based animation system Motion Matching in C++ for realistic and responsive avatar control"
     - "Developed an SDK for Skeleton Retargeting in C++ and Lua, supporting animation adaptation across character models"
     - "Integrated the cross-functional team's Text-to-Animation algorithm into our game engine using the developed SDK"
