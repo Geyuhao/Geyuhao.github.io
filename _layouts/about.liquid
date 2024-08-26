@@ -64,9 +64,17 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">📖 projects</a>
+        <a href="{{ '/papers_projects/' | relative_url }}" style="color: inherit">📝 papers</a>
       </h2>
       {% include selected_papers.liquid %}
+    {% endif %}
+
+    <!-- Selected projects -->
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/papers_projects/' | relative_url }}" style="color: inherit">📖 projects</a>
+      </h2>
+      {% include selected_projects.liquid %}
     {% endif %}
 
     <!-- Latest posts -->

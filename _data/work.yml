@@ -2,13 +2,15 @@
   position: "Software Engineer Intern"
   period: "2024.5 - 2024.8"
   details:
-    - "Work with the [Neuron Compiler](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/) team, which focused on optimizing deep learning on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
-    - "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization with a defined sweep space"
-    - "Collected data for DMA access pattern analysis and introduced a learning-based DMA latency model"
-    - "Created first-generation Autotuning framework from scratch to support compiler optimization and kernel optimization"
-    - "Used autotuning to optimize the Matrix Multiply Fusion Pass, gaining a 5.6% improvement for popular LLMs like Llama"
-    - "Developed kernel language for AI accelerators and support the Kernel Optimization with autotuning, achieving a 4.9% HFU improvement for kernels like Matrix Multiply"
-    - "Built support for multi-process compilation and distributed benchmarking, reducing tuning time by 88.4%"
+    - "Worked with the [Neuron Compiler](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/) team, focusing on optimizing deep learning on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
+    - "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization, defining a comprehensive sweep space."
+    - "Collected data for DMA access pattern analysis and introduced a learning-based DMA latency model."
+    - "Created the first-generation autotuning infrastructure from scratch, enabling compiler and kernel optimizations."
+    - "Applied autotuning to optimize the Matrix Multiply Fusion Pass, achieving a 14.7% performance improvement for the Llama3.1 model."
+    - "Developed a kernel language for AI accelerators and supported kernel optimization through autotuning, leading to a 4.9% HFU improvement for kernels like Matrix Multiply."
+    - "Implemented multi-process compilation and distributed benchmarking, resulting in an 8.62X speedup."
+    - "Delivered three organization-wide presentations and received a Certificate of Appreciation from the director for developing one of the most impactful internship projects, significantly enhancing peak performance on Trainium and pioneering new avenues for future development."
+
 
 - company: "NFTGo"
   position: "Machine Learning Engineer Intern"

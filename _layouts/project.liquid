@@ -49,7 +49,11 @@
       {{ entry.title }}
     </div>
     <!-- Institution and Date -->
-    <div class="institution" style="font-style: italic; color: #6c757d; margin-bottom: 10px;">{{ entry.institution }} | {{ entry.date }}</div>
+    {% if entry.ispaper %}
+      <div class="institution" style="font-style: italic; color: #6c757d; margin-bottom: 10px;">{{ entry.authors }}</div>
+        {% else %}
+      <div class="institution" style="font-style: italic; color: #6c757d; margin-bottom: 10px;">{{ entry.institution }} | {{ entry.date }}</div>
+    {% endif %}
     <!-- Content -->
     <div class="content" style="margin-bottom: 20px;">
       {{ entry.content }}
