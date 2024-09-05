@@ -24,12 +24,14 @@ I am an M.S. student in Computer Science at UIUC, working under [Prof. Charith M
 
 Previously, I earned dual B.S. degrees in Computer Engineering from Zhejiang University and the University of Illinois at Urbana-Champaign through their joint program. I also had the opportunity to be a visiting research student at the [UCLA VAST Lab](https://vast.cs.ucla.edu), under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong), where I worked on FPGA accelerator design automation. Additionally, I have interned at [TikTok](https://www.tiktok.com/about?lang=en) and [NFTGo](https://nftgo.io).
 
-
 <!-- Social -->
+
 {% if page.social %}
+
   <div class="social">
     <div class="contact-icons">{% include social.liquid %}</div>
 
     <div class="contact-note">{{ site.contact_note }}</div>
+
   </div>
 {% endif %}
