@@ -64,7 +64,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/papers_projects/' | relative_url }}" style="color: inherit">📝 papers</a>
+        <a href="{{ '/papers/' | relative_url }}" style="color: inherit">📝 selected papers</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
@@ -72,10 +72,19 @@ layout: default
     <!-- Selected projects -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/papers_projects/' | relative_url }}" style="color: inherit">📖 projects</a>
+        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">📖 selected projects</a>
       </h2>
       {% include selected_projects.liquid %}
     {% endif %}
+
+    <!-- extracurriculars -->
+    <h2>
+      <a href="{{ '/extracurriculars/' | relative_url }}" style="color: inherit">📷 extracurriculars</a>
+    </h2>
+
+    <p>
+      Drumming has been a consistent passion in my life, helping me maintain creativity and rhythm in everything I do. Checkout my <a href="{{ '/extracurriculars/' | relative_url }}"">video</a> here.
+    </p>
 
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
@@ -83,7 +92,7 @@ layout: default
         <div style="flex: 0 0 60%; padding: 10px; margin-right: 20px;">
           {% if site.latest_posts.enabled %}
             <h2>
-              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">✍️ latest posts</a>
+              <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
             </h2>
             {% include latest_posts.liquid %}
           {% endif %}
@@ -98,13 +107,5 @@ layout: default
       </div>
     {% endif %}
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
   </article>
 </div>

@@ -8,6 +8,8 @@ children:
   # - title: blog
   # permalink: /blog/
   # - title: divider
+  - title: teaching
+    permalink: /teaching/
   - title: repositories
     permalink: /repositories/
 ---
