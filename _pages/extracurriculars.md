@@ -30,6 +30,6 @@ I started playing drums at the age of 8 and have been playing intermittently eve
 </div>
 <div class="d-flex justify-content-center mt-3">
     <div class="text-center">
-        Two of my favorite drum covers.
+        Three of my favorite drum covers.
     </div>
 </div>

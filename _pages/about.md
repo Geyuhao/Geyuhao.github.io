@@ -20,7 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Master's student in Computer Science at UIUC, working under [Prof. Charith Mendis](https://charithmendis.com). My research interests span <b>Machine Learning</b>, <b>Compilers</b>, and <b>LLM Efficiency</b>. I worked at [Amazon AWS, Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), where I focus on optimizing compilers to accelerate the training and inference of LLMs on [Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls), AWS's custom-designed accelerator.
+I am working at [Amazon AWS, Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), where I focus on optimizing compilers to accelerate the training and inference of LLMs on [Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls), AWS's custom-designed accelerator.
+
+I was an Master's student in Computer Science at UIUC, working under [Prof. Charith Mendis](https://charithmendis.com). My research interests span <b>Machine Learning</b>, <b>Compilers</b>, and <b>LLM Efficiency</b>. 
 
 Previously, I earned dual B.S. degrees in Computer Engineering from Zhejiang University and the University of Illinois at Urbana-Champaign through their joint program. I also had the opportunity to be a visiting research student at the [UCLA VAST Lab](https://vast.cs.ucla.edu), under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong), where I worked on FPGA accelerator design automation. Additionally, I have interned at [TikTok](https://www.tiktok.com/about?lang=en) and [NFTGo](https://nftgo.io).
 
