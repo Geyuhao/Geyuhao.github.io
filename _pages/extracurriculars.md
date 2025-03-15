@@ -21,6 +21,12 @@ I started playing drums at the age of 8 and have been playing intermittently eve
             Linkin Park - In the End
         </div>
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/R5GD8QqwopY" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Linkin Park - In the End
+        </div>
+    </div>
 </div>
 <div class="d-flex justify-content-center mt-3">
     <div class="text-center">

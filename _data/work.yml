@@ -1,4 +1,10 @@
 - company: "Amazon, Annapurna Labs"
+  position: "Software Engineer"
+  period: "2025.3 - Now"
+  details:
+    - "Worked with the [Neuron Compiler](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/) team, focusing on optimizing ML workloads on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
+
+- company: "Amazon, Annapurna Labs"
   position: "Software Engineer Intern"
   period: "2024.5 - 2024.8"
   details:

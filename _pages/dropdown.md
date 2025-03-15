@@ -10,6 +10,6 @@ children:
   # - title: divider
   - title: teaching
     permalink: /teaching/
-  - title: repositories
-    permalink: /repositories/
+  # - title: repositories
+  #   permalink: /repositories/
 ---
