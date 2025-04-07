@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there, I'm Yuhao Ge <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 - ⚡ I am working at Amazon, AWS, [Annapurna Lab](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), as Software Dev Engineer Intern.
 - 🎓 Master student in CS at the University of Illinois at Urbana-Champaign [UIUC](https://illinois.edu/). I work with my advisor [Charith Mendis](https://charithmendis.com), in the area of Deap Learning Compilers and Machine Learning Systems.
 - 💻 Once intern at Amazon, AWS, [Annapurna Lab](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), [TikTok](https://www.tiktok.com) and [NFTGo](https://nftgo.io)
@@ -21,4 +22,5 @@ Here are some ideas to get you started:
 - 🚀 Check out my [homepage](https://geyuhao.github.io) for more infomation about me.
 
 ---
-*"The journey of discovery never truly ends."*
+
+_"The journey of discovery never truly ends."_
