@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 🚀 I joined [Google](https://www.google.com) as a Software Engineer, working on improving Gemini training and serving performance on TPU.
-
