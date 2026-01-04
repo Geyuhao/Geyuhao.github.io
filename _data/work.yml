@@ -1,37 +1,30 @@
+- company: "Google"
+  position: "Software Engineer"
+  period: "2025.11 - Now"
+  details:
+    - "Improving Gemini training and serving performance on TPU"
+    - "Improving third party TPU experience by TorchTPU"
+
 - company: "Amazon, Annapurna Labs"
   position: "Software Engineer"
-  period: "2025.3 - Now"
+  period: "2025.3 - 2025.11"
   details:
-    - "Worked with the [Neuron Compiler](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/) team, focusing on optimizing ML workloads on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
+    - "Worked at Annapurna Labs, targeting LLM training/inference acceleration on Trainium chips. Primarily worked in ML Compiler Optimization, Kernel Language Design, Kernel Optimization."
 
 - company: "Amazon, Annapurna Labs"
   position: "Software Engineer Intern"
   period: "2024.5 - 2024.8"
   details:
-    - "Worked with the [Neuron Compiler](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/) team, focusing on optimizing deep learning on AWS AI accelerators ([Trainium](https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls)/[Inferentia](https://aws.amazon.com/machine-learning/inferentia/))."
-    - "Developed infrastructure for automatic kernel generation, compilation, profiling, and visualization, defining a comprehensive sweep space."
-    - "Collected data for DMA access pattern analysis and introduced a learning-based DMA latency model."
-    - "Created the first-generation autotuning infrastructure from scratch, enabling compiler and kernel optimizations."
-    - "Applied autotuning to optimize the Matrix Multiply Fusion Pass, achieving a 14.7% performance improvement for the Llama3.1 model."
-    - "Developed a kernel language for AI accelerators and supported kernel optimization through autotuning, leading to a 4.9% HFU improvement for kernels like Matrix Multiply."
-    - "Implemented multi-process compilation and distributed benchmarking, resulting in an 8.62X speedup."
-    - "Delivered three organization-wide presentations and received a Certificate of Appreciation from the director for developing one of the most impactful internship projects, significantly enhancing peak performance on Trainium and pioneering new avenues for future development."
+    - "Developed the first-generation ML-based cost model and autotuning infra for Compiler and Kernels. Significantly improved the training and inference performance (14.7% for Llama3.1) on the Trainium chips. Recognized as one of the most impactful internship and earned a Certificate of Appreciation."
 
 - company: "NFTGo"
   position: "Machine Learning Engineer Intern"
   period: "2023.2 - 2023.6"
   details:
-    - "Built an [NFT pricing](https://docs.nftgo.io/reference/gopricing) service powered by machine learning"
-    - "Developed a Regression Model for NFT pricing using historical transaction data and NFT features"
-    - "Used MongoDB and Redis to realize efficient data retrieval, and the FastAPI web framework to package the API services"
-    - "Streamlined periodic data processing, model training/updating, and monitoring with Apache Airflow"
-    - "Deployed and managed the system using Docker and Kubernetes and monitored through Grafana"
+    - "Built an [NFT pricing](https://docs.nftgo.io/reference/gopricing) service powered by machine learning. Developed regression models using historical transaction data and NFT features. Deployed the system using FastAPI, MongoDB, Redis, Apache Airflow, Docker, and Kubernetes."
 
 - company: "TikTok"
   position: "Software Engineer Intern"
   period: "2022.5 - 2022.8"
   details:
-    - "Collaborated in developing TikTok 3D Game Engine, which empowers users to create/use interactive AR/VR stickers"
-    - "Implemented a query-based animation system Motion Matching in C++ for realistic and responsive avatar control"
-    - "Developed an SDK for Skeleton Retargeting in C++ and Lua, supporting animation adaptation across character models"
-    - "Integrated the cross-functional team's Text-to-Animation algorithm into our game engine using the developed SDK"
+    - "Developed TikTok 3D Game Engine for interactive AR/VR stickers. Implemented Motion Matching animation system in C++ for realistic avatar control. Built SDK for Skeleton Retargeting in C++ and Lua, and integrated Text-to-Animation algorithms."
