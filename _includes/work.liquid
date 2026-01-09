@@ -22,12 +22,8 @@
               <td colspan="2">
                 {% if item.details %}
                   {% if item.details.first %}
-                    {{ item.details.first | markdownify }}
-                    <ul>
-                      {% for detail in item.details offset: 1 %}
-                        <li>{{ detail | markdownify }}</li>
-                      {% endfor %}
-                    </ul>
+                    {% assign details_joined = item.details | join: ' ' %}
+                    {{ details_joined | markdownify }}
                   {% else %}
                     {{ item.details | markdownify }}
                   {% endif %}

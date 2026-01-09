@@ -24,12 +24,26 @@ I started playing drums at the age of 8 and have been playing intermittently eve
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/R5GD8QqwopY" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Linkin Park - In the End
+            紅蓮華 (LiSA) - Drum Cover
+        </div>
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/U9MqfV0KvLQ" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Butter-Fly (和田光司) – Drum Cover
+        </div>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/lXMlakYByXo" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Drum Cover – Studio Session
         </div>
     </div>
 </div>
 <div class="d-flex justify-content-center mt-3">
     <div class="text-center">
-        Three of my favorite drum covers.
+        Some of my favorite drum covers.
     </div>
 </div>

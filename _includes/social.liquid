@@ -110,7 +110,13 @@
   <a href="https://bsky.app/profile/{{ site.bluesky_url }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
 {% endif %}
 {% if site.youtube_id %}
-  <a href="https://youtube.com/@{{ site.youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+  {% assign youtube_id = site.youtube_id %}
+  {% if youtube_id contains 'user-' %}
+    {% assign youtube_user = youtube_id | remove: 'user-' %}
+    <a href="https://youtube.com/user/{{ youtube_user }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+  {% else %}
+    <a href="https://youtube.com/@{{ youtube_id }}" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+  {% endif %}
 {% endif %}
 {% if site.discord_id %}
   <a href="https://discord.com/users/{{ site.discord_id }}" title="Discord"><i class="fa-brands fa-discord"></i></a>
