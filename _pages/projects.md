@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /projects/
-title: School Project
+title: project
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->

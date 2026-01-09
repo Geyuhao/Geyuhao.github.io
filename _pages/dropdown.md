@@ -6,10 +6,10 @@ nav_order: 8
 dropdown: true
 children:
   # - title: blog
-  # permalink: /blog/
+  #   permalink: /blog/
   # - title: divider
-  - title: teaching
-    permalink: /teaching/
+  # - title: teaching
+  #   permalink: /teaching/
   # - title: repositories
   #   permalink: /repositories/
 ---
