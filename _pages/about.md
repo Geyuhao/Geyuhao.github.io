@@ -20,13 +20,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an **LLM infrastructure and performance engineer** with rare **cross-accelerator expertise (TPU, Trainium, GPU)**. My work spans the full LLM infrastructure stack, from compiler optimization, kernel implementation, to large-scale training and inference systems.
+I am an **LLM infrastructure and performance engineer** with rare **cross-accelerator expertise (TPU, Trainium, GPU)**. My work spans the full LLM infrastructure stack, from **compiler optimization**, **kernel implementation**, to **large-scale training and inference systems**.
 
 Currently, I am working at [Google](https://www.google.com), where I focus on improving Gemini training and serving performance on TPU, and enhancing third party TPU experience through TorchTPU.
 
 Previously, I worked at [Amazon AWS, Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), where I focused on LLM performance optimization on Trainium chips, primarily working on compiler optimization, kernel language design, and kernel optimization.
 
-I was an Master's student in Computer Science at UIUC, working under [Prof. Charith Mendis](https://charithmendis.com). My research interests span <b>Machine Learning</b>, <b>Compilers</b>, and <b>LLM Efficiency</b>.
+I was a Master's student in Computer Science at UIUC, working under [Prof. Charith Mendis](https://charithmendis.com). My research interests span Machine Learning, Compilers, and LLM Efficiency.
 
 I earned dual B.S. degrees in Computer Engineering from Zhejiang University and the University of Illinois at Urbana-Champaign through their joint program. I also was a visiting research student at the [UCLA VAST Lab](https://vast.cs.ucla.edu), under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong), where I worked on FPGA accelerator design automation. Additionally, I have interned at [TikTok](https://www.tiktok.com/about?lang=en) and [NFTGo](https://nftgo.io).
 
