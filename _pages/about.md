@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: SDE @ <a href='https://www.google.com'>Google</a> | MSCS @ <a href='https://cs.illinois.edu'>UIUC</a> | ex-SDE @ <a href='https://aws.amazon.com/machine-learning/trainium/?nc1=h_ls'>Amazon AWS</a> | ex-SDE @ <a href='https://www.tiktok.com/about?lang=en'>TikTok</a>
+subtitle: Software Engineer @ <a href='https://www.google.com'>Google</a> | LLM Serving & Performance | MSCS @ <a href='https://cs.illinois.edu'>UIUC</a> | ex-AWS Annapurna Labs
 
 profile:
   align: right
@@ -20,15 +20,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an **LLM infrastructure and performance engineer** with rare **cross-accelerator expertise (TPU, Trainium, GPU)**. My work spans the full LLM infrastructure stack, from **compiler optimization**, **kernel implementation**, to **large-scale training and inference systems**.
+I am an **LLM serving and performance engineer** with **cross-accelerator expertise (TPU, Trainium, GPU)**. My work spans framework, compiler, and kernel optimization for large-scale serving systems.
 
-Currently, I am working at [Google](https://www.google.com), where I focus on improving Gemini training and serving performance on TPU, and enhancing third party TPU experience through TorchTPU.
+At [Google](https://www.google.com), I lead development of the **[PyTorch-native vLLM TPU backend](https://github.com/vllm-project/tpu-inference)**, making TPU a drop-in serving target with GPU-equivalent usability and performance. I work across the full TPU serving stack, including asynchronous scheduling, eager and compiled execution, static-shape bucketing, distributed serving, [Pallas](https://docs.jax.dev/en/latest/pallas/index.html) kernels, quantization, and TorchTPU. I also bring up and optimize open-source models such as GPT-OSS, Qwen3, and Qwen3.5 for production workloads on TPU.
 
-Previously, I worked at [Amazon AWS, Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), where I focused on LLM performance optimization on Trainium chips, primarily working on compiler optimization, kernel language design, and kernel optimization.
+Previously, I was a founding engineer of the [NKI](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/general/nki/index.html) kernel language and compiler at [AWS Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs). I designed and optimized compiler passes, custom FlashAttention kernels, and autotuning infrastructure for [Trainium](https://aws.amazon.com/ai/machine-learning/trainium/).
 
-I was a Master's student in Computer Science at UIUC, working under [Prof. Charith Mendis](https://charithmendis.com). My research interests span Machine Learning, Compilers, and LLM Efficiency.
+I earned an M.S. in Computer Science and a B.S. in Computer Engineering from UIUC, graduating with Highest Honors and Bronze Tablet recognition. During my master's research with [Prof. Charith Mendis](https://charithmendis.com), I developed [SPLAT](https://dl.acm.org/doi/10.1145/3720503), an optimized GPU code-generation framework for sparse attention accepted at OOPSLA 2025.
 
-I earned dual B.S. degrees in Computer Engineering from Zhejiang University and the University of Illinois at Urbana-Champaign through their joint program. I also was a visiting research student at the [UCLA VAST Lab](https://vast.cs.ucla.edu), under the supervision of [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong), where I worked on FPGA accelerator design automation. Additionally, I have interned at [TikTok](https://www.tiktok.com/about?lang=en) and [NFTGo](https://nftgo.io).
+Earlier, I worked on ML-driven FPGA accelerator optimization at the [UCLA VAST Lab](https://vast.cs.ucla.edu) with [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong), and on real-time avatar animation systems at [TikTok](https://www.tiktok.com/about?lang=en).
 
 <!-- Social -->
 

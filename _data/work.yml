@@ -1,30 +1,43 @@
 - company: "Google"
   position: "Software Engineer"
-  period: "2025.11 - Now"
+  period: "2025.11 - Present"
   details:
-    - "Improving Gemini training and serving performance on TPU"
-    - "Improving third party TPU experience by TorchTPU"
+    - "Lead development of the PyTorch-native vLLM TPU backend, making TPU a drop-in target for vLLM users with GPU-equivalent usability and performance for production workloads."
+    - "Designed and implemented the TPU serving stack, including asynchronous scheduling, eager and compiled execution, static-shape bucketing and padding, TP/EP/PP/DP distributed serving, and Pallas kernel integration."
+    - "Co-developed TorchTPU and optimized major open-source models, including GPT-OSS, Qwen3, and Qwen3.5, across framework, kernel, and compiler layers, reaching 80% of GB300 performance on TPUv7."
+    - "Designed TPU-friendly hybrid-cache management and quantization schemes covering W4A8, W8A8, KV cache, NVFP4, INT4, FP8, and MXFP4 formats."
+    - "Drove open-source co-development with Inferact and RadixArk through tiered CI/CD and accuracy and performance regression gates on TPU hardware."
 
-- company: "Amazon, Annapurna Labs"
+- company: "AWS, Annapurna Labs"
   position: "Software Engineer"
   period: "2025.3 - 2025.11"
   details:
-    - "Worked at Annapurna Labs, targeting LLM training/inference acceleration on Trainium chips. Primarily worked in ML Compiler Optimization, Kernel Language Design, Kernel Optimization."
+    - "Founding engineer of the NKI kernel language and compiler for AWS Trainium, driving language and compiler design."
+    - "Architected and optimized core compiler passes, including scheduling and allocation, with cycle-level optimization."
+    - "Designed custom FlashAttention kernels for LLM workloads on Trainium."
+    - "Led development of autotuning infrastructure for compiler and kernel performance."
 
-- company: "Amazon, Annapurna Labs"
+- company: "AWS, Annapurna Labs"
   position: "Software Engineer Intern"
   period: "2024.5 - 2024.8"
   details:
-    - "Developed the first-generation ML-based cost model and autotuning infra for Compiler and Kernels. Significantly improved the training and inference performance (14.7% for Llama3.1) on the Trainium chips. Recognized as one of the most impactful internship and earned a Certificate of Appreciation."
-
-- company: "NFTGo"
-  position: "Machine Learning Engineer Intern"
-  period: "2023.2 - 2023.6"
-  details:
-    - "Built an [NFT pricing](https://docs.nftgo.io/reference/gopricing) service powered by machine learning. Developed regression models using historical transaction data and NFT features. Deployed the system using FastAPI, MongoDB, Redis, Apache Airflow, Docker, and Kubernetes."
+    - "Developed automated kernel generation and profiling infrastructure for micro-architectural performance data and ML-based instruction-latency cost models."
+    - "Architected the first-generation autotuning infrastructure with modular design-space, search-strategy, and surrogate-cost-modeling components."
+    - "Improved Llama 3.1 performance by 14.7% through Matmul Fusion Pass autotuning and accelerated autotuning workflows by 8.6x with multi-process compilation and distributed profiling."
+    - "Received a [Certificate of Appreciation](../assets/pdf/intern_certificate.pdf) for high-impact contributions."
 
 - company: "TikTok"
   position: "Software Engineer Intern"
   period: "2022.5 - 2022.8"
   details:
-    - "Developed TikTok 3D Game Engine for interactive AR/VR stickers. Implemented Motion Matching animation system in C++ for realistic avatar control. Built SDK for Skeleton Retargeting in C++ and Lua, and integrated Text-to-Animation algorithms."
+    - "Developed TikTok's 3D Game Engine for interactive AR/VR stickers."
+    - "Implemented a query-based Motion Matching system in C++ for real-time, low-latency avatar control."
+    - "Developed an SDK for Skeleton Retargeting across character models."
+
+- company: "University of California, Los Angeles"
+  position: "Research Assistant"
+  period: "2022.6 - 2022.11"
+  details:
+    - "Developed a GNN-based surrogate cost model for HLS scheduling and resource estimation."
+    - "Designed an ML-driven design-space exploration framework for automated FPGA accelerator optimization."
+    - "Integrated reinforcement-learning and bandit strategies for adaptive search, improving exploration efficiency by 11%."

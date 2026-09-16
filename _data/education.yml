@@ -1,25 +1,12 @@
 - institution: "University of Illinois at Urbana-Champaign (UIUC)"
   degree: "M.S. in Computer Science"
-  period: "2023.9 - 2024.12"
+  period: "2023.8 - 2024.12"
   details:
-    - "Working with [Prof. Charith Mendis](https://charithmendis.com)."
-    - "My research interests include ML for Compilers, Compilers for ML, ML Systems, Accelerators."
-
-- institution: "University of California, Los Angeles (UCLA)"
-  degree: "Visiting Student Researcher"
-  period: "2022.5 - 2022.9"
-  details:
-    - "Worked with [Prof. Jason Cong](https://vast.cs.ucla.edu/people/faculty/jason-cong), on FPGA accelerator design automation."
+    - "Worked with [Prof. Charith Mendis](https://charithmendis.com) on ML systems, compilers, and efficient sparse attention."
 
 - institution: "University of Illinois at Urbana-Champaign (UIUC)"
   degree: "B.S. in Computer Engineering"
-  period: "2019.9 - 2023.5"
+  period: "2019.8 - 2023.5"
   details:
-    - "Graduated with [Highest Honors](https://ece.illinois.edu/academics/ugrad/honors-programs) and [Bronze Tablet](https://digital.library.illinois.edu/items/0602cf00-96ed-013c-4aba-02d0d7bfd6e4-b#?c=0&m=0&s=0&cv=0&r=0&xywh=-1003%2C162%2C6502%2C2777) recognition (top 3%)."
-
-- institution: "Zhejiang University (ZJU)"
-  degree: "B.S. in Computer Engineering"
-  period: "2019.9 - 2023.5"
-  details:
-    - "Selected Rewards: Zhejiang Provincial Government Scholarship, First-Class Scholarship (top 3%)"
-    - "Has been the chair of The Center of Student Clubs for one year"
+    - "GPA: 4.0/4.0."
+    - "Graduated with [Highest Honors](https://ece.illinois.edu/academics/ugrad/honors-programs), [Bronze Tablet](https://digital.library.illinois.edu/items/0602cf00-96ed-013c-4aba-02d0d7bfd6e4-b#?c=0&m=0&s=0&cv=0&r=0&xywh=-1003%2C162%2C6502%2C2777) recognition (top 3%), and Dean's List honors."
