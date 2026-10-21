@@ -14,8 +14,8 @@ profile:
     </div>
 
 news: true # includes a list of news items
-education: false
-work: false
+education: true
+work: true
 selected_papers: true # selected research publications
 social: true # includes social icons at the bottom of the page
 ---

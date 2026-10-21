@@ -45,6 +45,18 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Work -->
+    {% if page.work and site.announcements.enabled %}
+      <h2>💼 work</h2>
+      {% include work.liquid limit=true years_only=true %}
+    {% endif %}
+
+    <!-- Education -->
+    {% if page.education and site.announcements.enabled %}
+      <h2>🎓 education</h2>
+      {% include education.liquid limit=true %}
+    {% endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>

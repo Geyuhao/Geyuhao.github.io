@@ -15,7 +15,17 @@
               <strong>{{ item.company }}</strong><br>
               <span style="font-size: 0.9em; color: #666;">{{ item.position }}</span>
             </td>
-            <td style="width: 30%; text-align: right;">{{ item.period }}</td>
+            <td style="width: 30%; text-align: right;">
+              {% if include.years_only %}
+                {% assign period_parts = item.period | split: ' - ' %}
+                {% assign first_year = period_parts | first | split: '.' | first %}
+                {% assign last_year = period_parts | last | split: '.' | first %}
+                {{ first_year -}}
+                {%- if first_year != last_year %} – {{ last_year }}{% endif %}
+              {% else %}
+                {{ item.period }}
+              {% endif %}
+            </td>
           </tr>
           {% if include.detailed %}
             <tr>
