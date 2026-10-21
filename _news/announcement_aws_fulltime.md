@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 I joined Amazon AWS, [Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), as a software engineer.
+I joined Amazon AWS, [Annapurna Labs](https://www.amazon.jobs/content/en/teams/amazon-web-services/annapurna-labs), as a software engineer.

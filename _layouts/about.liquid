@@ -45,22 +45,6 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    <!-- Work -->
-    {% if page.work and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/work/' | relative_url }}" style="color: inherit">💼 work</a>
-      </h2>
-      {% include work.liquid limit=true %}
-    {% endif %}
-
-    <!-- Education -->
-    {% if page.education and site.announcements.enabled %}
-      <h2>
-        <a href="{{ '/education/' | relative_url }}" style="color: inherit">🎓 education</a>
-      </h2>
-      {% include education.liquid limit=true %}
-    {% endif %}
-
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
